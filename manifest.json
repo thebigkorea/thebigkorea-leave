@@ -1,0 +1,15 @@
+{
+  "name": "더큰코리아 연월차 신청",
+  "short_name": "더큰코리아",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fbf6ef",
+  "theme_color": "#7b1e1e",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/747/747376.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
