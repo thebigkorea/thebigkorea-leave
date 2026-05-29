@@ -1,5 +1,4 @@
 const API_URL = "https://script.google.com/macros/s/AKfycbx7Y5zaVU7kYTdFwdwhUgoKwqOGx55-8a0McZOmA42PpbU4WWJqYTFPeSH2oD4mOzd7/exec";
-
 let currentAdminPassword = "";
 
 async function api(action, data = {}) {
