@@ -1,4 +1,4 @@
-const API_URL = "https://script.google.com/macros/s/AKfycbwIk25js6KAQ-ntkMVXGJ452OQY--OQOAFg4wQc7esZgDAc9D-xGYFrF0s23p5LuavY/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbx7Y5zaVU7kYTdFwdwhUgoKwqOGx55-8a0McZOmA42PpbU4WWJqYTFPeSH2oD4mOzd7/exec";
 
 let currentAdminPassword = "";
 
