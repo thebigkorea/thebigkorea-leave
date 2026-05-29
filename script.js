@@ -405,12 +405,3 @@ async function changeStatus(rowNumber, status) {
   }
 }
 
-/* =========================
-   서비스워커
-========================= */
-if ("serviceWorker" in navigator) {
-
-  navigator.serviceWorker
-    .register("service-worker.js");
-
-}
